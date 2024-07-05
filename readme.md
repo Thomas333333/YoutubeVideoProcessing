@@ -1,5 +1,8 @@
 # youtube医学视频处理
-
+两个视频处理工具的代码。
++ OCR：[tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
++ ASR：[YouTubeTranscriptApi](https://pypi.org/project/youtube-transcript-api/)
+## 版本
 + python版本：3.8
 + 安装依赖包
 ```commandline
